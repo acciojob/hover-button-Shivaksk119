@@ -4,7 +4,7 @@ button{
 	height:40px;
 	color:white;
 	border-radius:5px;
-	border-collapse:collapse;
+	border:0px;
 	
 }
 button:hover{
